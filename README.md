@@ -1,8 +1,7 @@
 
 <title> "Hello World!" </title> 
 
-
-```Pconst name``` = "Kimi Teixeira"
+```const name``` = "Kimi Teixeira"
 
 ```let age``` = 20
 
