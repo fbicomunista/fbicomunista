@@ -1,12 +1,10 @@
 
-alert.(```"Hello world!"```)
+alert.("Hello world!")
 
-```const name``` = "Kimi Teixeira"
+```const name``` = "Kimi Djan Paes Teixeira"
 
 ```let age``` = 20
 
-```const work``` = programing
+```const height``` = 1,72
 
-```let friends``` = "programings"
-
-```const pharse```e = Meu nome é ${name} e eu sou  um novo ${work},esse repositorio é aonde coloco os meus projetos e tutorias de tecnologias
+```let weight``` = 63
