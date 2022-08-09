@@ -1,5 +1,5 @@
 
-alert.("HELLO WORLD!")
+alert.("Hello world!")
 
 ```const name``` = "Kimi Djan Paes Teixeira"
 
