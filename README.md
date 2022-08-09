@@ -9,4 +9,4 @@ alert.("Hello world!")
 
 ```let weight``` = 63
 
-```const profission``` = Programing
+```const profission``` = Programmer
