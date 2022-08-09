@@ -10,5 +10,4 @@ const work = programing
 
 let friends = "programings"
 
-const pharse = ``my name is ${name} and i am a new ${work}, this repository is where a commit my projects and 
-anotation about my studyes ${friends} can also see this repository for new things :)``
+const pharse = ``````Meu nome é ${name} e eu sou um novo ${work},esse repositorio é aonde coloco os meus projetos e tutorias de tecnologias :)``````
