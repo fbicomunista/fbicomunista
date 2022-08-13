@@ -19,10 +19,12 @@
   <img align="center" alt="bootstap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  
+ <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
+ <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt=" " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+ 
  </div>
 
