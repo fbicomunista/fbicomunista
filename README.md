@@ -1,5 +1,5 @@
 
-### Bem vindo ao meu perfil do GitHub, meu nome é Kimi Teixeira e eu sou um desenvolvedor 
+### Bem vindo ao meu perfil do GitHub, meu nome é Kimi Teixeira e eu sou um desenvolvedor junior
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbicomunista&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
