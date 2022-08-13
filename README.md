@@ -1,12 +1,6 @@
 
 ### Bem vindo ao meu perfil do GitHub, meu nome é Kimi Teixeira e eu sou um desenvolvedor 
 
-<div>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fbicomunista" alt="fbicomunista perfil" /> 
- </div>
-
-
-   
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbicomunista&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbicomunista&layout=compact&langs_count=7&theme=dracula"/>
